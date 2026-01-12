@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I’m Adobe Certified AEM Sites Developer Expert with more than 3 years of experience in the AEM technology stack, I am a passionate professional with a keen interest in Competitive Programming, Data Structures, and Software Development. My skill set encompasses a wide range of programming languages and tools, including C, C++, Python, HTML5, CSS, Core Java, JavaScript, Git, JSON, Postman, Jenkins, UDeploy, and Adobe Experience Manager (Apache Sling, JCR, OSGi, REST, Servlet Engine).[More...](https://scaleup.org.in/experience.html)
+I’m Adobe Certified AEM Sites Developer Expert with more than 4 years of experience in the AEM technology stack, I am a passionate professional with a keen interest in Competitive Programming, Data Structures, and Software Development. My skill set encompasses a wide range of programming languages and tools, including C, C++, Python, HTML5, CSS, Core Java, JavaScript, Git, JSON, Postman, Jenkins, UDeploy, and Adobe Experience Manager (Apache Sling, JCR, OSGi, REST, Servlet Engine).[More...](https://scaleup.org.in/experience.html)
 
 # 🌐 Websites
 [LinkedIn](https://www.linkedin.com/in/tech-amit-patel/)  |  [Scale Up](https://scaleup.org.in/)  |  [Portfolio](https://scaleup.org.in/contact.html)
